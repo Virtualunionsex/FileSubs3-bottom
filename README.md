@@ -22,7 +22,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sayazean/File3)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OLLPROJECT/FileSubs3-bottom)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -89,7 +89,7 @@ python3 main.py
 
 
 ## Support   
-Bergabunglah di [@ZeanSupport](https://www.telegram.dog/ZeanSupport) Untuk Dukungan/Bantuan Dan Join [@ZeanProject](https://www.telegram.dog/AbingProject) untu info Update bot.   
+Bergabunglah di [@Brothersexsid](https://www.telegram.dog/Brothersexsid) Untuk Dukungan/Bantuan Dan Join [@Brothersexsid](https://www.telegram.dog/gabutnyaoll) untu info Update bot.   
  
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
