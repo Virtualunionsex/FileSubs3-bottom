@@ -59,12 +59,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Brothersexsid",
+      "value": "gabutnyaoll",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "Gabutnyaoll",
+      "value": "Brothersexsid",
       "required": false
     }
   },
