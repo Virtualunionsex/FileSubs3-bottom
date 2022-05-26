@@ -1,13 +1,13 @@
 {
-  "name": "File Sharing Zean",
+  "name": "File Sharing 3Bottom",
   "description": "BOT Multi Force Subs File Sharing Bot berguna untuk menyimpan file dan dapat diakses melalui link khusus",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/sayazean/File3",
-  "logo": "https://telegra.ph/file/9f0a7192891de6fe937b4.jpg",
+  "repository": "https://github.com/OLLPROJECT/FileSubs3-bottom",
+  "logo": "https://telegra.ph/file/05f20471e6f7c22730b2a.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
@@ -15,11 +15,11 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "sayaabing"
+      "value": "myname_is_oll"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "1337194042"
+      "value": "2019435633"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
@@ -59,12 +59,12 @@
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZeannProject",
+      "value": "Brothersexsid",
       "required": false
     },
     "GROUP":{
       "description": "Masukan Username dari Group anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
-      "value": "ZeanSupport",
+      "value": "Gabutnyaoll",
       "required": false
     }
   },
