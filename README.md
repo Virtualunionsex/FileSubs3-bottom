@@ -5,7 +5,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@ZeanSupport](https://www.telegram.dog/ZeanSupport)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@Brothersexsid](https://www.telegram.dog/Brothersexsid)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
